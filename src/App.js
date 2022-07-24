@@ -49,7 +49,7 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Learn React
+              Learn Reacttest
             </a>
             <button onClick={() => login()}>Enter</button>
             <button onClick={() => logout()}>Logout</button>
